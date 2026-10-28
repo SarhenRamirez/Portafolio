@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.claude/
+
+# Borrador antiguo del CV (no lo usa el sitio)
+cv-source/
